@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # VIOLATION 1: Hardcoded Credentials (CC7 - System Ops)
 # Never store secrets in plain text.
-AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+AWS_ACCESS_KEY = "AKIA5555555555555555"
 DB_PASSWORD = "super_secret_password_123"
 
 # VIOLATION 2: Insecure Logging (CC7 - System Ops)
